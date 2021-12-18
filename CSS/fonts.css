@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "SFUIText-light";
+    src: local("SFUIText-light")
+    url(C:/Users/Юлия/Desktop/17.11/project/fonts/SFUIText-light.woff) format("woff"),
+    url(C:/Users/Юлия/Desktop/17.11/project/fonts/SFUIText-light.woff2) format("woff2");
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+
+}
+@font-face {
+    font-family: "SFUIText-Regular";
+    src: local("SFUIText-Regular")
+    url(C:/Users/Юлия/Desktop/17.11/project/fonts/SFUIText-Regular.woff) format("woff"),
+    url(C:/Users/Юлия/Desktop/17.11/project/fonts/SFUIText-Regular.woff2) format("woff2");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+
+}
+@font-face {
+    font-family: "SFUIText-Medium";
+    src: local("SFUIText-Medium")
+    url(C:/Users/Юлия/Desktop/17.11/project/fonts/SFUIText-Medium.woff) format("woff"),
+    url(C:/Users/Юлия/Desktop/17.11/project/fonts/SFUIText-Medium.woff2) format("woff2");
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+
+}
